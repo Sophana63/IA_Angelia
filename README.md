@@ -31,5 +31,5 @@ Dans ce cas de figure, le groupe a nottamment eu le temps d'aborder les thèmati
 - traitement de données/commandes SQL
 - import de données/import de librairies
 - commandes Python & utilisation de librairies adaptées
-- visualisation & régression linéaire
+- visualisation
 - analyse de données
