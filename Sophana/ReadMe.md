@@ -28,5 +28,10 @@ conda install -c plotly plotly_express
 
 ```
 
+## Visualisation du graphique
+
+*Nuage de points représentant le nombre de titre de même genre de 1979 à 2021. Toutes les chansons sont récupérées sur les 50 artistes les plus populaires. Ce graphique nous montre une tendance de genre par période. Avant les années 2000, le genre Hoerspiel est le plus représenté. De 2001 à 2017, la Pop est au dessus des autres. Et en ce moment, le Trap Latino et le Reggaeton cartonnent. *
+- Executer le fichier stat_genre_by_date.py pour afficher un nuage de points.
+
 
 
